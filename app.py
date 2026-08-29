@@ -15,3 +15,14 @@ sol1 = (-b-cmath.sqrt(d))/(2*a)
 sol2 = (-b+cmath.sqrt(d))/(2*a)
 
 print('The solution are {0} and {1}'.format(sol1,sol2))
+
+##################
+#new code
+num1 = 5
+print(num1, 'is of type', type(num1))
+
+num2 = 2.0
+print(num2, 'is of type', type(num2))
+
+num3 = 1+2j
+print(num3, 'is of type', type(num3))
